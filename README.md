@@ -12,5 +12,3 @@ Projeto construido no evento Next Level Week da Rocketseat
 -HTML
 CSS
 GIT e GitHub
-
-Alxandrarafaela@hotmail.com
